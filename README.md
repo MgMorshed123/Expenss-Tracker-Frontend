@@ -9,6 +9,8 @@ A modern, responsive **expense tracking web app** built with **React**, **Tailwi
 ## 🚀 Features
 
 ### **User Authentication**
+ -Email : mdarfinji45@gmail.com
+ -Password: SADASDAS343ERWR
 - Register, login, OTP verification, forgot/reset password flows.  
 - **OTP Verification Required:** After registering, users must verify the OTP sent to their email before logging in.
     
@@ -19,7 +21,10 @@ A modern, responsive **expense tracking web app** built with **React**, **Tailwi
 
 ### **Expense Management**
 - Add, edit, and delete expenses.  
-- Filter expenses by category or date.  
+- Filter expenses by category or date.
+- Set monthly reports at the end of each month
+- Export PDF with current spending
+
 
 ### **Dashboard**
 - Visualize expenses using interactive **Recharts pie chart**.  
