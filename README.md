@@ -60,3 +60,16 @@ Clone the repository and navigate to the frontend folder:
 ```bash
 git clone https://github.com/MgMorshed123/Expenss-Tracker-Frontend.git
 cd Expenss-Tracker-Frontend/ClientCarrer-main
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm start
+
+
+
+
