@@ -17,7 +17,6 @@ A modern, responsive **expense tracking web app** built with **React**, **Tailwi
 <img width="615" height="516" alt="OTP Verification Screenshot" src="https://github.com/user-attachments/assets/3f9670db-f4c4-4197-925c-368ceb7bd3dc" />  
 
  
- **Note:** Currently, OTP emails are sent via Gmail SMTP and are only delivered to the developer’s email. In the future, a professional service like **SendGrid** or another transactional email provider will be used to send OTPs to all users.
 
 ### **Expense Management**
 - Add, edit, and delete expenses.  
