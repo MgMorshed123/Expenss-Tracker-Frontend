@@ -27,7 +27,7 @@ export default function App() {
         setCurrentPage("home");
       }
       setIsLoading(false); // stop spinner
-    }, 2500); // 2500ms = 2.5 seconds
+    }, 10); // 2500ms = 2.5 seconds
 
     return () => clearTimeout(timer); // cleanup if component unmounts
   }, []);
